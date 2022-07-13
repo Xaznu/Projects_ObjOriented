@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Program używający dzie
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Zadanie zrobione tak aby używało interfaców", "3. Zadanie zrobione tak aby używało interfaców\3. Zadanie zrobione tak aby używało interfaców.csproj", "{9DD361D4-02B4-45F8-ABF2-EBDC58FFBF60}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Dopisanie brakujących klas do programu", "4. Dopisanie brakujących klas do programu\4. Dopisanie brakujących klas do programu.csproj", "{7FC37B47-58ED-4836-8804-B7A230A39484}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{9DD361D4-02B4-45F8-ABF2-EBDC58FFBF60}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9DD361D4-02B4-45F8-ABF2-EBDC58FFBF60}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9DD361D4-02B4-45F8-ABF2-EBDC58FFBF60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FC37B47-58ED-4836-8804-B7A230A39484}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FC37B47-58ED-4836-8804-B7A230A39484}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FC37B47-58ED-4836-8804-B7A230A39484}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FC37B47-58ED-4836-8804-B7A230A39484}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
