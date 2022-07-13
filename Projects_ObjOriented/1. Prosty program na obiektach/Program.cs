@@ -29,7 +29,7 @@ namespace ProstyBank
             string ABC;
             Console.ResetColor();
 
-            do
+           do
             {
                 Console.ForegroundColor = ConsoleColor.DarkMagenta;
                 Console.WriteLine($"\n1. Wpłać:  \n2. Wypłać:  \n3. Historia: \n4. Konto: \n5. Weź kredyt: \n6. Wpłacić ratę kredytu: ");
