@@ -5,6 +5,8 @@ VisualStudioVersion = 17.2.32616.157
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Prosty program na obiektach", "1. Prosty program na obiektach\1. Prosty program na obiektach.csproj", "{0FB04E67-2C8A-4DA7-B39F-E8B0FEEF745F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Program używający dziedziczenia", "2. Program używający dziedziczenia\2. Program używający dziedziczenia.csproj", "{0F2EAEF8-5B2E-46C5-8B0D-E70F181D4AD2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{0FB04E67-2C8A-4DA7-B39F-E8B0FEEF745F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0FB04E67-2C8A-4DA7-B39F-E8B0FEEF745F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0FB04E67-2C8A-4DA7-B39F-E8B0FEEF745F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F2EAEF8-5B2E-46C5-8B0D-E70F181D4AD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F2EAEF8-5B2E-46C5-8B0D-E70F181D4AD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F2EAEF8-5B2E-46C5-8B0D-E70F181D4AD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F2EAEF8-5B2E-46C5-8B0D-E70F181D4AD2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
